@@ -1,0 +1,17 @@
+.input {
+  height: 150px;
+  border-radius: 20px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 60px;
+  background-color: #0d182b;
+  color: white;
+  padding: 11px 30px 11px 11px;
+  font-family: "Barlow", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5rem;
+}
