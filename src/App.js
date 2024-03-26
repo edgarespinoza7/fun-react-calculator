@@ -57,7 +57,7 @@ function App() {
         <div className='text-container'>
           <h1 className='title'>Fun-facts Calculator</h1>
           <hr />
-          <p>Every time you complete an operation you will discover an interesting fact about numbers.</p>
+          <p>Every time you complete an operation you might discover an interesting fact about numbers.</p>
         </div>
         {/* Calculator */}
         <div className="calc-container">
